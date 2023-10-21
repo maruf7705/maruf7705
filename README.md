@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://marufislam.me/](https://marufislam.me/)
+- 👨‍💻 All of my projects are available at [https://maruf.works/](https://maruf.works/)
 
 - 💬 Ask me about **Not now**
 
