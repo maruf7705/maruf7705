@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [yeaminbin.github.io](https://github.com/Ayanokoji99707/yeaminbin.github.io)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://maruf.works/](https://maruf.works/)
 
