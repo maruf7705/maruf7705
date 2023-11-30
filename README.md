@@ -4,7 +4,7 @@
 <img src="https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanokoji99707&label=Profile%20views&color=0e75b6&style=flat" alt="ayanokoji99707" /> </p>
 
-- 🔭 I’m currently working on [yeaminbin.github.io](https://github.com/Ayanokoji99707/yeaminbin.github.io)
+- 🔭 I’m currently working on [Ai-Special]([https://github.com/Ayanokoji99707/yeaminbin.github.io](https://github.com/maruf7705/ai-special-edit.git))
 
 - 🌱 I’m currently learning **Python**
 
