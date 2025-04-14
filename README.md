@@ -1,68 +1,27 @@
-<h1 align="center">👋 Assalamu Alaikum, I'm Maruf Islam</h1>
-<h3 align="center">AI Specialist | Machine Learning Enthusiast | Python Developer</h3>
+<h1 align="center">Assalamu Alaikum 👋, I'm Maruf Islam</h1>
+<h3 align="center">I want to be an AI specialist.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf7705&label=Profile%20views&color=0e75b6&style=flat" alt="maruf7705" /> </p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true" alt="Coding Animation" width="400"/>
+- 🔭 I’m currently working on [Ai-Special](https://github.com/maruf7705/ai-special-edit.git)
+- 🌱 I’m currently learning **Python for AI and machine learning**
+- 👨‍💻 All of my projects are available at [https://maruf.works/](https://maruf.works/)
+- 💬 Ask me about **AI, machine learning, or Python**
+- 📫 How to reach me **md.maruf99707@gmail.com**
+- ⚡ Fun fact **I enjoy building intelligent systems with AI.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sadikmaruf99707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
+<a href="https://fb.com/sadikmaruf99707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
+<a href="https://instagram.com/sadikmaruf99707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
 </p>
 
----
-
-### 🚀 About Me
-
-I'm a passionate AI Specialist with a keen interest in developing intelligent systems that solve real-world problems. With a strong foundation in machine learning and deep learning, I strive to create solutions that are both innovative and efficient.
-
-- 🔭 Currently working on: [AI-Special](https://github.com/maruf7705/ai-special-edit.git)
-- 🌱 Learning: Advanced Machine Learning Techniques
-- 💬 Ask me about: AI, Machine Learning, Python
-- 📫 Reach me at: [md.maruf99707@gmail.com](mailto:md.maruf99707@gmail.com)
-- 🌐 Portfolio: [maruf.works](https://maruf.works/)
-
----
-
-### 🛠️ Skills & Tools
-
-- **Languages**: Python, JavaScript, C
-- **Frameworks**: TensorFlow, PyTorch, Django
-- **Tools**: Git, Docker, Jupyter Notebook
-- **Databases**: MongoDB, MySQL
-- **Others**: Linux, REST APIs, Machine Learning, Deep Learning
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf7705&show_icons=true&theme=radical" alt="Maruf's GitHub Stats" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/sadikmaruf99707" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://fb.com/sadikmaruf99707" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/sadikmaruf99707" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-### 🧠 AI Projects Showcase
-
-- **AI-Special**: A comprehensive project focusing on advanced AI algorithms and applications. [View Project](https://github.com/maruf7705/ai-special-edit.git)
-
----
-
-### 🎯 Fun Fact
-
-I believe in continuous learning and am always exploring new technologies in the AI domain to stay ahead in the field.
-
----
-
