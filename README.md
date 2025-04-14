@@ -1,48 +1,105 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Maruf Islam</h1>
-<h3 align="center">Aspiring AI Specialist | Building Intelligent Solutions</h3>
+<!-- Hero Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00A4EF&center=true&vCenter=true&width=435&lines=Passionate+about+AI+and+Machine+Learning;Creating+Impactful+Intelligent+Systems" alt="Typing SVG" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf7705&label=Profile%20views&color=0e75b6&style=flat" alt="maruf7705" /> </p>
-
-- 🔭 I’m currently working on [AI-Special](https://github.com/maruf7705/ai-special)
-- 🌱 I’m diving deep into **Python, TensorFlow, and PyTorch for AI**
-- 👨‍💻 Explore my projects at [https://maruf.works/](https://maruf.works/)
-- 💬 Ask me about **AI, neural networks, or data science**
-- 📫 Reach me at **md.maruf99707@gmail.com**
-- ⚡ Fun fact **I love turning complex data into smart solutions!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/sadikmaruf99707" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
-  <a href="https://fb.com/sadikmaruf99707" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/facebook.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
-  <a href="https://instagram.com/sadikmaruf99707" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" alt="sadikmaruf99707" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/maruf-islam-99707" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" alt="maruf-islam-99707" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/maruf7705/html-part-1/main/photo%20make%20(1584%20x%20396%20px).png" alt="Maruf Islam" width="100%" />
 </p>
 
-<h3 align="left">AI Tools & Technologies:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/www.python.org" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/www.tensorflow.org" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/pytorch.org" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/scikit-learn.org" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/jupyter.org" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/cloud.google.com" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/aws.amazon.com" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://favicons.githubusercontent.com/www.docker.com" alt="docker" width="40" height="40"/> </a>
+<h1 align="center">Assalamu Alaikum, I'm Maruf Islam</h1>
+<h3 align="center">Founder & CEO of CodeNestX | AI Agent Developer | Automation Expert</h3>
+
+<!-- Animated Coding Image -->
+<p align="center">
+  <img src="https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true" alt="AI Coding Animation" width="300"/>
 </p>
 
-<style>
-  h1, h3 { 
-    font-family: 'Arial', sans-serif; 
-    color: #1f2a44; 
-  }
-  p { 
-    font-family: 'Arial', sans-serif; 
-    color: #333; 
-  }
-  a img:hover { 
-    transform: scale(1.2); 
-    transition: transform 0.3s ease; 
-  }
-</style>
+---
+
+### About Me
+
+I am the **Founder & CEO** of **CodeNestX**, an **Information Technology** company specializing in **AI agents** and **automation solutions**. My journey revolves around developing intelligent systems that drive efficiency, solve complex problems, and innovate industries.
+
+As an **AI specialist**, my focus is on creating cutting-edge AI-driven solutions that revolutionize automation in industries such as healthcare, customer service, and more. I believe in **constant learning** and **adaptation**, always striving to stay ahead in the AI field.
+
+- 🔭 **Current Projects**: [AI-Special](https://github.com/maruf7705/ai-special-edit.git) – Developing next-generation AI agents and automation tools.
+- 🌱 **Learning**: Advanced AI techniques, machine learning models, and natural language processing.
+- 💬 **Ask Me About**: AI agents, automation, Python development, data science, and machine learning.
+- 📫 **Reach Me**: [md.maruf99707@gmail.com](mailto:md.maruf99707@gmail.com)
+- 🌐 **Company Website**: [www.codenestx.com](https://www.codenestx.com)
+
+---
+
+### My Expertise
+
+As an **AI agent creator**, I specialize in:
+
+- **AI Agents**: Building intelligent agents for automation and problem-solving.
+- **Machine Learning**: Crafting predictive models and algorithms to optimize processes.
+- **Automation**: Designing systems to streamline workflows and improve efficiency.
+- **Data Science**: Extracting actionable insights from data to inform decision-making.
+
+---
+
+### Projects & Contributions
+
+#### **AI-Special**: 
+This project focuses on developing AI agents for practical applications in automation and decision-making systems. It includes cutting-edge tools and algorithms for building intelligent solutions.
+[**View Project**](https://github.com/maruf7705/ai-special-edit.git)
+
+#### **AI-powered Appointment Booking System**: 
+Creating a scalable AI system for automating appointment bookings with integration to various platforms.
+[**View Project**](#)
+
+#### **Automated Customer Support Chatbot**: 
+Developing a conversational AI for handling customer queries via WhatsApp and other platforms.
+[**View Project**](#)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf7705&show_icons=true&count_private=true&theme=gruvbox" alt="Maruf's GitHub Stats" />
+</p>
+
+---
+
+### My Philosophy
+
+As the **CEO of CodeNestX**, I am driven by the belief that **AI and automation** will redefine industries, create efficiencies, and solve complex problems. My mission is to harness the power of AI to **create impactful solutions** that contribute to business and society.
+
+---
+
+### Connect with Me
+
+Let's collaborate and explore new opportunities in AI and automation.
+
+<p align="center">
+  <a href="https://twitter.com/sadikmaruf99707" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/sadikmaruf99707" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/sadikmaruf99707" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### Fun Fact
+
+I am committed to **winning** in every venture I undertake, and I believe in the transformative power of **AI**. My approach is focused on **innovation**, **automation**, and **continuous improvement** to deliver scalable and efficient solutions.
+
+---
+
+### Visual Design & Tone
+
+- **Modern AI-Centric Layout**: The design focuses on clean, minimalistic visuals that reflect your expertise in AI and automation.
+- **Professional Tone**: Emphasized your role as the **CEO of CodeNestX** and AI agent expert to establish authority and expertise.
+- **Featured Projects**: Clear showcase of AI-focused projects to highlight your core work.
+- **GitHub Stats**: Dynamic stats to reflect your ongoing contributions in the tech and AI space.
+- **Connect**: Direct calls to connect on social platforms, with a focus on business and AI innovation.
+
+---
+
+This version now closely reflects your position as an **AI specialist** and **agency owner**, highlighting your leadership role, expertise in AI agents, and commitment to automation. Let me know if you'd like any further adjustments!
