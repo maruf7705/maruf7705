@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maruf7705/html-part-1/main/photo%20make%20(1584%20x%20396%20px).png" alt="Maruf Islam Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Assalamu Alaikum, I'm Maruf Islam</h1>
 <h3 align="center">AI Specialist | Machine Learning Enthusiast | Python Developer</h3>
 
