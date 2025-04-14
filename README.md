@@ -4,6 +4,8 @@
 
 ---
 
+![AI Agent Developer](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
+
 ### About Me
 
 I am the **Founder & CEO** of **CodeNestX**, an **Information Technology** company specializing in **AI agents** and **automation solutions**. My focus is on creating intelligent systems that drive business efficiency, solve complex problems, and innovate industries. 
