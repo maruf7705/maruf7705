@@ -110,3 +110,10 @@ I am **driven** by the belief that no challenge is insurmountable. Every project
 - **[CodeNestX Website](https://www.codenestx.com)**: A glimpse of our innovative AI and automation solutions.
 - **[GitHub Projects](https://github.com/maruf7705)**: All my open-source contributions and repositories.
 
+---
+
+### 🤖 More AI in Action:
+
+![AI Agent](https://media.giphy.com/media/3o7TKt7j8MjN4t70R6/giphy.gif)
+
+This **AI agent** is just a glimpse of what I am building for the future—autonomous systems that work seamlessly, 24/7, without human intervention.
