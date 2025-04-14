@@ -1,60 +1,61 @@
-# Assalamu Alaikum, I'm Maruf Islam
+# Assalamu Alaikum, I'm **Maruf Islam** 👋
 
-## Founder & CEO of CodeNestX | AI Agent Developer | Automation Expert
-
----
-
-![AI Agent Developer](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
-
-### About Me
-
-I am the **Founder & CEO** of **CodeNestX**, an **Information Technology** company specializing in **AI agents** and **automation solutions**. My focus is on creating intelligent systems that drive business efficiency, solve complex problems, and innovate industries. 
-
-I am deeply committed to **AI**, **machine learning**, and **automation**, always pushing boundaries to create impactful solutions that contribute to businesses and society.
-
-- 🔭 **Current Projects**: [AI-Special](https://github.com/maruf7705/ai-special-edit.git)
-- 🌱 **Learning**: Advanced AI techniques, machine learning models, and natural language processing.
-- 💬 **Ask Me About**: AI agents, automation, Python development, data science, and machine learning.
-- 📫 **Reach Me**: [md.maruf99707@gmail.com](mailto:md.maruf99707@gmail.com)
-- 🌐 **Company Website**: [www.codenestx.com](https://www.codenestx.com)
+## Founder & CEO of [CodeNestX](https://www.codenestx.com) | AI Agent Developer | Automation Architect
 
 ---
 
-### Expertise
-
-As an **AI agent creator**, my expertise includes:
-
-- **AI Agents**: Building intelligent agents to automate tasks and solve complex problems.
-- **Machine Learning**: Crafting predictive models and algorithms for data-driven solutions.
-- **Automation**: Designing scalable systems to optimize workflows and enhance efficiency.
-- **Data Science**: Analyzing data to derive actionable insights and inform decision-making.
+![AI in Action](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
 
 ---
 
-### Featured Projects
+### 🌟 About Me
+I am the **Founder & CEO** of **CodeNestX**, an **Information Technology** company that specializes in **AI agents**, **machine learning**, and **automation systems**. I design intelligent solutions to transform businesses and industries. 
 
-#### [AI-Special](https://github.com/maruf7705/ai-special-edit.git)  
-A project focused on creating intelligent AI agents and automation tools for practical applications.
+- **Current Focus**: Building **AI-powered agents** to automate workflows and solve real-world problems.
+- **Mission**: To create impactful AI solutions that maximize productivity and drive innovation.
 
-#### AI-Powered Appointment Booking System  
-Designing a scalable AI system for automating appointment scheduling with platform integrations.
-
-#### Automated Customer Support Chatbot  
-Developing a conversational AI system to handle customer queries across multiple channels.
+- 🔭 **Currently Working On**: [AI-Special](https://github.com/maruf7705/ai-special-edit.git)  
+- 🌱 **Learning**: Advanced AI, Natural Language Processing, and Machine Learning Algorithms.
+- 📬 **Reach Me**: [md.maruf99707@gmail.com](mailto:md.maruf99707@gmail.com)
+- 🌐 **Website**: [www.codenestx.com](https://www.codenestx.com)
 
 ---
 
-### GitHub Stats
+### 🚀 My Expertise
+
+As an **AI specialist**, here are the areas I excel in:
+
+- **AI Agents**: Building autonomous systems that handle complex tasks without human intervention.
+- **Machine Learning**: Developing models that learn from data to make accurate predictions.
+- **Automation Systems**: Automating repetitive tasks and improving business efficiency.
+- **Data Science**: Extracting valuable insights from data to guide decision-making.
+
+---
+
+### 🔥 Key Projects
+
+#### **[AI Appointment Booking System](https://github.com/maruf7705/ai-special-edit.git)**
+Developing a **GPT-powered AI system** to automate appointment scheduling, integrated with WhatsApp and Google Meet.
+
+#### **[Automated Chatbot for Customer Support](https://github.com/maruf7705/chatbot-support-system.git)**
+Building a conversational AI chatbot to automate customer support, providing seamless communication across platforms.
+
+#### **[AI-Powered Content Automation](https://github.com/maruf7705/ai-content-automation.git)**
+Creating intelligent agents to automate content creation and management for digital platforms.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf7705&show_icons=true&count_private=true&theme=gruvbox" alt="Maruf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf7705&show_icons=true&count_private=true&theme=dracula" alt="Maruf's GitHub Stats" />
 </p>
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
 
-Let's connect and explore new opportunities in AI and automation:
+I'm always open to new opportunities and collaborations in the world of **AI** and **automation**. Let's build the future together!
 
 <p align="center">
   <a href="https://twitter.com/sadikmaruf99707" target="_blank">
@@ -70,13 +71,13 @@ Let's connect and explore new opportunities in AI and automation:
 
 ---
 
-### Fun Fact
+### ⚡ Fun Fact
 
-I believe in the transformative power of **AI**, **automation**, and **innovation**. My commitment is to **win** in every venture by creating scalable, intelligent solutions that address real-world challenges.
+I’m a firm believer in the power of **AI** to reshape industries, and my commitment is to **win** by creating systems that break boundaries and scale intelligently.
 
 ---
 
-### Badges for Technologies I Use
+### 🛠️ Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -85,3 +86,27 @@ I believe in the transformative power of **AI**, **automation**, and **innovatio
   <img src="https://img.shields.io/badge/Automation-%23FFAB00.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Automation"/>
   <img src="https://img.shields.io/badge/Data%20Science-%2333B0FF.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
 </p>
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: Django, Flask, Node.js, Tailwind CSS
+- **AI Tools**: TensorFlow, PyTorch, Scikit-learn
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Cloud**: AWS, Google Cloud, Azure
+
+---
+
+### 🏆 I Will Win, No Matter What!
+
+I am **driven** by the belief that no challenge is insurmountable. Every project I work on is a step towards my vision of creating **game-changing AI solutions** that define the future of technology. Let's connect and **build the future**.
+
+---
+
+### 🌐 Find My Projects:
+
+- **[CodeNestX Website](https://www.codenestx.com)**: A glimpse of our innovative AI and automation solutions.
+- **[GitHub Projects](https://github.com/maruf7705)**: All my open-source contributions and repositories.
+
