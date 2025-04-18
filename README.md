@@ -5,7 +5,7 @@
 ---
 
 ![AI in Action](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
-![AI in Action](![image](https://github.com/user-attachments/assets/813ca9fe-4adb-439b-9cd8-27d28de1ba13))
+![AI in Action](https://cdn.dribbble.com/userupload/22693314/file/original-63ee3848dea6a2b08c1b5c9acdc92d06.gif)
 
 ---
 
