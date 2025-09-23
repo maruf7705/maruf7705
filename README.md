@@ -5,7 +5,7 @@
 ---
 
 ![AI in Action](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf7705&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
