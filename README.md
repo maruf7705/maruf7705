@@ -5,9 +5,7 @@
 ---
 
 ![AI in Action](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf7705&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 ---
 
 ### 🌟 About Me
@@ -51,6 +49,9 @@ Creating intelligent agents to automate content creation and management for digi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maruf7705&show_icons=true&count_private=true&theme=dracula" alt="Maruf's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf7705&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
