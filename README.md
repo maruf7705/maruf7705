@@ -5,6 +5,8 @@
 ---
 
 ![AI in Action](https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf7705)
+
 ---
 
 ### 🌟 About Me
