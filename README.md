@@ -1,6 +1,6 @@
 # Assalamu Alaikum, I'm **Maruf Islam** 👋
 
-## Founder & CEO of [CodeNestX](https://www.codenestx.com) | AI Agent Developer | Automation Architect
+## | AI Agent Developer | Automation Architect
 
 ---
 
